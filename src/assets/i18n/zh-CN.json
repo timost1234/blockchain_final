@@ -1,0 +1,27 @@
+
+{
+    "Header": {
+        "toolmenLab": "工具人实验室",
+        "home": "首页",
+        "members": "成员",
+        "research": "研究",
+        "teaching": "教学",
+        "login": "登入",
+        "signUp": "注册",
+        "copyright": "版权所有 © 2020 国立台湾大学生物机电工程学系工具人实验室"
+    },
+   
+    "Cover": {
+        "title": "工具人实验室",
+        "subtitle": "台湾大学生物机电工程学系 机器学习与机器视觉实验室",
+        "description": "本实验室致力于将深度学习、机器学习，与影像处理相关技术相结合，应用于农业与生物相关领域之研究。我们结合教学、研究与实作，培养兼具理论与实务能力之学生，使其成为跨领域整合能力之高级工程人才。"
+    },
+    "OurProjects": {
+        "sectionHeading": "研究主题",
+        "viewAll": "View All Researches"
+    },
+    "JoinUs": {
+        "discription": "实验室新血招募中！欢迎对深度学习、机器视觉、机电整合有兴趣的同学加入 👨🏼‍🎓👩🏼‍🎓",
+        "download": "了解更多，加入我们"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "Header": {
+        "toolmenLab": "Toolmen Lab",
+        "home": "Home",
+        "members": "Members",
+        "research": "Research",
+        "teaching": "Teaching",
+        "login": "Login",
+        "signUp": "Sign up",
+        "copyright": "© Copyright 2020, Toolmen Lab, Department of Biomechatronics Engineering, National Taiwan University. All Rights Reserved."
+    },
+    "Cover": {
+        "title": "Toolmen Lab",
+        "subtitle": "Lab of Machine Learning and Machine Vision, BIME, NTU",
+        "description": "Our lab focuses on fulfilling the demand of mechatronics system integration for trIn artment of multi-engineering disciplines (graduates are granted engineerinutomation, bio-engineering, bio-sensor, bio-signal processing, intelligent control, Nano-BioMEMS, biomaterials, bio-informatics, bio-reactor engineering, etc., in order to keep abreast with the global tre in bio-industry."
+    },
+    "OurProjects": {
+        "sectionHeading": "Our Projects",
+        "viewAll": "View All Researches"
+    },
+    "JoinUs": {
+        "discription": "We are looking for someone who is easy going and eager to learn 👨🏼‍🎓👩🏼‍🎓",
+        "download": "Know more and Join us"
+    }
+}
